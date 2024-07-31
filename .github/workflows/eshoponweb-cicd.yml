@@ -10,7 +10,8 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
   # SUBSCRIPTION-ID: YOUR-SUBS-ID
-  SUBSCRIPTION-ID: "867c3417-4a14-42e3-9e72-540c48b2e6d5"
+  # SUBSCRIPTION-ID: "867c3417-4a14-42e3-9e72-540c48b2e6d5"
+  SUBSCRIPTION-ID: "598d0d82-63ac-49db-820a-e90b0a521651"
   # WEBAPP-NAME: eshoponweb-webapp-NAME
   WEBAPP-NAME: eshoponweb-webapp-porra
 
