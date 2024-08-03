@@ -1,3 +1,8 @@
+# JJP added a comment line n:o 1 on top to enable an update:
+# eshoponweb-cicd.yml
+# JJP_2022_MS_Ignite_Cloud_Developer_Challenge_Azure_DevOps_23_CI with GitHub Actions.docx
+# page 96
+
 name: eShopOnWeb Build and Test
 
 #Triggers (uncomment line below to use it)
